@@ -1,2 +1,3 @@
 haiku ="""The old pond,
-A
+A frog jups in:
+Plop
