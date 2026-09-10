@@ -1,3 +1,3 @@
 import datetime
 
-todays_date = f"{datetime.datetime.noe()}"
+todays_date = f"{datetime.datetime.noe():%d/%m}"
