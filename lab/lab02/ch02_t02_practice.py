@@ -1,7 +1,7 @@
 # Assign your variables below, each on its own line!
 
 caesar = "graham"
-praline = "john"
+praline = "John"
 viking = "Teresa"
 
 
