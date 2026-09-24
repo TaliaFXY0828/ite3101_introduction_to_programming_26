@@ -7,7 +7,6 @@ def clinic():
     elif answer == "right" or answer == "r":
         print("Of course this is the Argument Room, I've told you that already!")
     else:
-        r
         print("You didn't pick left or right! Try again.")
         clinic()
 
