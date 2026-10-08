@@ -7,4 +7,4 @@
 def spam():
 print("Eggs")
 
-spam
+spam()
