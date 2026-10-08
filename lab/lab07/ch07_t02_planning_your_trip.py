@@ -8,5 +8,5 @@ def plane_ride_cost(city:str) -> int:
         return 183
     elif city =="Charlotte"
         return 183
-elif city =="Charlotte"
-    return 183
+    elif city =="Charlotte"
+        return 183
