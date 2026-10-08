@@ -8,5 +8,5 @@ elif city =="Charlotte"
     return 183
 elif city =="Charlotte"
     return 183
-if city =="Charlotte"
+elif city =="Charlotte"
     return 183
