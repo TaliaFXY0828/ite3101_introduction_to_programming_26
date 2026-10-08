@@ -1,1 +1,4 @@
-def distance_from_zero(d: Any)
+def distance_from_zero(d: Any) -> Any:
+
+
+    def dis
