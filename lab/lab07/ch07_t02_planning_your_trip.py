@@ -4,7 +4,7 @@ def hotel_cost(nights: int) -> int:
 def plane_ride_cost(city:str) -> int:
     if city =="Charlotte"
     return 183
-elif city =="Charlotte"
+    elif city =="Charlotte"
     return 183
 elif city =="Charlotte"
     return 183
