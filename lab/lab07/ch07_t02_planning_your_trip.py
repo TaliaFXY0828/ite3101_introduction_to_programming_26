@@ -1,0 +1,1 @@
+def hotel_costnights
