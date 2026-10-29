@@ -1,3 +1,4 @@
 names = ["Adam", "Alex", "Mariah", "Martine", "Columbus"]
 
-forname 
+for name in names:
+    
