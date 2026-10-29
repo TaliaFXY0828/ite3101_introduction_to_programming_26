@@ -13,6 +13,6 @@ del zoo_animals['Unicorn']
 del zoo_animals['Sloth']
 del zoo_animals['Bengal Tiger']
 
-del zoo_animals['Unicorn']
+zoo_animals['Unicorn']
 
 print(zoo_animals)
