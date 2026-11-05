@@ -46,7 +46,7 @@ def get_letter_grade(score:float) -> str:
         return "A"
     elif score >= 80:
         return "B"
-    if score >= 90:
-        return "A"
-    if score >= 90:
-        return "A"
+    elif score >= 70:
+        return "C"
+    elif score >= 60:
+        return "D"
