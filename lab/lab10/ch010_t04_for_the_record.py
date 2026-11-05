@@ -20,6 +20,6 @@ students = [lloyd, alice, tyler]
 
 for student in students:
     print(student{""}
-    print()
-    print()
-    print()
+    print(student{""}
+    print(student{""}
+    print(student{""}
