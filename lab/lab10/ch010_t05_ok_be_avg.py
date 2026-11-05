@@ -24,4 +24,5 @@ tyler = {
 
 
 def averge(numbers: List[float]) -> float:
-    total = sum
+    total = sum(numbers)
+    
