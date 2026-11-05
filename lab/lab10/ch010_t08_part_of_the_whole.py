@@ -53,6 +53,5 @@ print(get_letter_grade(get_average(lloyd)))
 def get_class_average(class_list: List[dict]) -> float:
     student_agerages: List[float] = []
     for student in class_list:
-        student_avg = get_average(student)
-        student_averages.append(get_average(student_avg)
+        student_averages.append(get_average(student)
     return average(student_averages)
