@@ -23,4 +23,5 @@ tyler = {
 # Add your function below!
 
 
-def averge(numbers: List[float]) 
+def averge(numbers: List[float]) -> float:
+    total = sum
