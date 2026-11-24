@@ -3,3 +3,4 @@ def prime(x:int)->int:
         return False
     else:
         for n in range(2, x-1)
+        
