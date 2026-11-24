@@ -1,1 +1,1 @@
-def prime
+def prime(x:int)
