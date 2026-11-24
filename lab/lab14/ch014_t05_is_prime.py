@@ -1,2 +1,3 @@
 def prime(x:int)->int:
-    return 
+    if x < 2:
+        return False
