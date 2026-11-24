@@ -1,4 +1,4 @@
-def prime(x:int)->int:
+def prime(x:int)->bool:
     if x < 2:
         return False
     else:
