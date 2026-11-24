@@ -1,1 +1,2 @@
-def fa
+def factorial(x:int)->int:
+    value = 
