@@ -1,4 +1,4 @@
 def anti_vowel(text:str)->str:
     result = ""
-    for char ib text:
+    for char in text:
         
